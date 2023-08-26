@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Australia",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Islamabad",
+      "completed": true
+    },
+    {
+      "title": "sudias",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "title": "Lahore",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "title": "Japan",
+      "completed": true
+    }
+  ]
+}
